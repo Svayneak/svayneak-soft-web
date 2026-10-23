@@ -1,0 +1,17 @@
+{
+  "name": "svayneak-soft-web",
+  "compatibility_date": "2025-05-01",
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "www.svayneaksoft.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "svayneaksoft.com",
+      "custom_domain": true
+    }
+  ]
+}
